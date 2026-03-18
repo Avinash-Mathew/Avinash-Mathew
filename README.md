@@ -86,6 +86,9 @@ Project documentation and architecture walkthroughs are available on:
 
 # 📫 How to Reach Me
 
+✉️ Email\
+avinash@amvatlabs.com
+
 💼 LinkedIn\
 https://www.linkedin.com/in/avinash-mathew-varghese/
 
